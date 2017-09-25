@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="Apprentice Timesheet" language="en" table="x_puse_apprentice_timesheet">
+    <sys_documentation element="" label="Apprentice Task" language="en" table="x_puse_apprentice_task">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>Apprentice Timesheet</label>
+            <label>Apprentice Task</label>
             <language>en</language>
-            <name>x_puse_apprentice_timesheet</name>
-            <plural>Apprentice Timesheets</plural>
+            <name>x_puse_apprentice_task</name>
+            <plural>Apprentice Tasks</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 17:16:12</sys_created_on>
+            <sys_created_on>2017-09-25 17:26:45</sys_created_on>
             <sys_customer_update>true</sys_customer_update>
-            <sys_id>fd9ac3af6f118780d1acbe7cbb3ee43c</sys_id>
+            <sys_id>580d8ba36f518780d1acbe7cbb3ee4a7</sys_id>
             <sys_mod_count>1</sys_mod_count>
-            <sys_name>Apprentice Timesheet</sys_name>
+            <sys_name>Apprentice Task</sys_name>
             <sys_package display_value="Apprentice Timesheet" source="x_puse_apprentice">d1e4fe966f5d0380d1acbe7cbb3ee469</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="Apprentice Timesheet">d1e4fe966f5d0380d1acbe7cbb3ee469</sys_scope>
-            <sys_update_name>sys_documentation_x_puse_apprentice_timesheet__en</sys_update_name>
+            <sys_update_name>sys_documentation_x_puse_apprentice_task__en</sys_update_name>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 17:31:26</sys_updated_on>
+            <sys_updated_on>2017-09-25 17:31:49</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

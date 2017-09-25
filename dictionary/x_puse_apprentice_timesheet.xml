@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Timesheet" max_length="40" name="x_puse_apprentice_timesheet" type="collection">
+    <element label="Apprentice Timesheet" max_length="40" name="x_puse_apprentice_timesheet" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Craft" max_length="40" name="craft" type="string">
             <choice/>
         </element>
