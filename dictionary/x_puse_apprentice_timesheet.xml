@@ -26,7 +26,7 @@
                 <element label="December" sequence="12" value="12"/>
             </choice>
         </element>
-        <element label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <element default="javascript:gs.getUserName();" label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Supervisor" max_length="32" name="supervisor" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="title" type="string"/>

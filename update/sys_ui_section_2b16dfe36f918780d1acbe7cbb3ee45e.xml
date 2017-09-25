@@ -2,142 +2,142 @@
 <record_update>
     <sys_ui_section caption="" section_id="2b16dfe36f918780d1acbe7cbb3ee45e" sys_domain="global" table="x_puse_apprentice_timesheet" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>name</element>
+            <element>number</element>
             <position>0</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:08:04</sys_created_on>
-            <sys_id>61769b276f918780d1acbe7cbb3ee429</sys_id>
+            <sys_created_on>2017-09-25 18:26:48</sys_created_on>
+            <sys_id>04ca53eb6f918780d1acbe7cbb3ee476</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:08:04</sys_updated_on>
+            <sys_updated_on>2017-09-25 18:26:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 18:26:48</sys_created_on>
+            <sys_id>88ca53eb6f918780d1acbe7cbb3ee476</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 18:26:48</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>supervisor</element>
-            <position>1</position>
+            <position>2</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:08:04</sys_created_on>
-            <sys_id>e5769b276f918780d1acbe7cbb3ee429</sys_id>
+            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
+            <sys_id>0cca53eb6f918780d1acbe7cbb3ee476</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:08:04</sys_updated_on>
+            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>title</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:08:04</sys_created_on>
-            <sys_id>69769b276f918780d1acbe7cbb3ee429</sys_id>
+            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
+            <sys_id>8cca53eb6f918780d1acbe7cbb3ee476</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:08:04</sys_updated_on>
+            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>location</element>
-            <position>3</position>
+            <position>4</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:08:04</sys_created_on>
-            <sys_id>e9769b276f918780d1acbe7cbb3ee429</sys_id>
+            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
+            <sys_id>00ca53eb6f918780d1acbe7cbb3ee477</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:08:04</sys_updated_on>
+            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>4</position>
+            <position>5</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:08:04</sys_created_on>
-            <sys_id>6d769b276f918780d1acbe7cbb3ee429</sys_id>
+            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
+            <sys_id>80ca53eb6f918780d1acbe7cbb3ee477</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:08:04</sys_updated_on>
+            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>month</element>
-            <position>5</position>
+            <position>6</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:08:04</sys_created_on>
-            <sys_id>ed769b276f918780d1acbe7cbb3ee429</sys_id>
+            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
+            <sys_id>04ca53eb6f918780d1acbe7cbb3ee477</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:08:04</sys_updated_on>
+            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>year</element>
-            <position>6</position>
+            <position>7</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:08:04</sys_created_on>
-            <sys_id>61769b276f918780d1acbe7cbb3ee42a</sys_id>
+            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
+            <sys_id>84ca53eb6f918780d1acbe7cbb3ee477</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:08:04</sys_updated_on>
+            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>craft</element>
-            <position>7</position>
+            <position>8</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:08:04</sys_created_on>
-            <sys_id>e1769b276f918780d1acbe7cbb3ee42a</sys_id>
+            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
+            <sys_id>08ca53eb6f918780d1acbe7cbb3ee477</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:08:04</sys_updated_on>
+            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>total_hours</element>
-            <position>8</position>
-            <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:08:04</sys_created_on>
-            <sys_id>65769b276f918780d1acbe7cbb3ee42a</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
-            <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:08:04</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>number</element>
             <position>9</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:08:35</sys_created_on>
-            <sys_id>05969f276f918780d1acbe7cbb3ee48a</sys_id>
+            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
+            <sys_id>88ca53eb6f918780d1acbe7cbb3ee477</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:08:35</sys_updated_on>
+            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
