@@ -9,7 +9,7 @@
         <sys_class_name>sys_ui_application</sys_class_name>
         <sys_created_by>PA-zsdamar</sys_created_by>
         <sys_created_on>2017-09-25 18:06:06</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>f806d7e36f918780d1acbe7cbb3ee45c</sys_id>
         <sys_mod_count>0</sys_mod_count>

@@ -12,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>PA-zsdamar</sys_created_by>
         <sys_created_on>2017-09-21 18:29:01</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ede4b61a6f5d0380d1acbe7cbb3ee481</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_puse_apprentice.user</sys_name>

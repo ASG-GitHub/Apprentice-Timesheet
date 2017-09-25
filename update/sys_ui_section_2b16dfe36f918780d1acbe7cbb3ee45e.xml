@@ -5,13 +5,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:26:48</sys_created_on>
-            <sys_id>04ca53eb6f918780d1acbe7cbb3ee476</sys_id>
+            <sys_created_on>2017-09-25 19:16:09</sys_created_on>
+            <sys_id>0f0627e36f158780d1acbe7cbb3ee4be</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:26:48</sys_updated_on>
+            <sys_updated_on>2017-09-25 19:16:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,13 +19,13 @@
             <element>name</element>
             <position>1</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:26:48</sys_created_on>
-            <sys_id>88ca53eb6f918780d1acbe7cbb3ee476</sys_id>
+            <sys_created_on>2017-09-25 19:16:09</sys_created_on>
+            <sys_id>8f0627e36f158780d1acbe7cbb3ee4be</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:26:48</sys_updated_on>
+            <sys_updated_on>2017-09-25 19:16:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -33,13 +33,13 @@
             <element>supervisor</element>
             <position>2</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
-            <sys_id>0cca53eb6f918780d1acbe7cbb3ee476</sys_id>
+            <sys_created_on>2017-09-25 19:16:09</sys_created_on>
+            <sys_id>030627e36f158780d1acbe7cbb3ee4bf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
+            <sys_updated_on>2017-09-25 19:16:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -47,13 +47,13 @@
             <element>title</element>
             <position>3</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
-            <sys_id>8cca53eb6f918780d1acbe7cbb3ee476</sys_id>
+            <sys_created_on>2017-09-25 19:16:09</sys_created_on>
+            <sys_id>830627e36f158780d1acbe7cbb3ee4bf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
+            <sys_updated_on>2017-09-25 19:16:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -61,13 +61,13 @@
             <element>location</element>
             <position>4</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
-            <sys_id>00ca53eb6f918780d1acbe7cbb3ee477</sys_id>
+            <sys_created_on>2017-09-25 19:16:09</sys_created_on>
+            <sys_id>070627e36f158780d1acbe7cbb3ee4bf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
+            <sys_updated_on>2017-09-25 19:16:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -75,13 +75,13 @@
             <element>.split</element>
             <position>5</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
-            <sys_id>80ca53eb6f918780d1acbe7cbb3ee477</sys_id>
+            <sys_created_on>2017-09-25 19:16:09</sys_created_on>
+            <sys_id>870627e36f158780d1acbe7cbb3ee4bf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
+            <sys_updated_on>2017-09-25 19:16:09</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -89,13 +89,13 @@
             <element>month</element>
             <position>6</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
-            <sys_id>04ca53eb6f918780d1acbe7cbb3ee477</sys_id>
+            <sys_created_on>2017-09-25 19:16:09</sys_created_on>
+            <sys_id>0b0627e36f158780d1acbe7cbb3ee4bf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
+            <sys_updated_on>2017-09-25 19:16:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -103,13 +103,13 @@
             <element>year</element>
             <position>7</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
-            <sys_id>84ca53eb6f918780d1acbe7cbb3ee477</sys_id>
+            <sys_created_on>2017-09-25 19:16:09</sys_created_on>
+            <sys_id>8b0627e36f158780d1acbe7cbb3ee4bf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
+            <sys_updated_on>2017-09-25 19:16:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -117,13 +117,13 @@
             <element>craft</element>
             <position>8</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
-            <sys_id>08ca53eb6f918780d1acbe7cbb3ee477</sys_id>
+            <sys_created_on>2017-09-25 19:16:09</sys_created_on>
+            <sys_id>0f0627e36f158780d1acbe7cbb3ee4bf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
+            <sys_updated_on>2017-09-25 19:16:09</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -131,15 +131,43 @@
             <element>total_hours</element>
             <position>9</position>
             <sys_created_by>PA-zsdamar</sys_created_by>
-            <sys_created_on>2017-09-25 18:26:49</sys_created_on>
-            <sys_id>88ca53eb6f918780d1acbe7cbb3ee477</sys_id>
+            <sys_created_on>2017-09-25 19:16:09</sys_created_on>
+            <sys_id>8f0627e36f158780d1acbe7cbb3ee4bf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:26:49</sys_updated_on>
+            <sys_updated_on>2017-09-25 19:16:09</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>10</position>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:16:09</sys_created_on>
+            <sys_id>030627e36f158780d1acbe7cbb3ee4c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:16:09</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.x_puse_apprentice_timesheet.x_puse_apprentice_task.timesheet</element>
+            <position>11</position>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:16:09</sys_created_on>
+            <sys_id>830627e36f158780d1acbe7cbb3ee4c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_puse_apprentice_timesheet" sys_domain="global" view="Default view">2b16dfe36f918780d1acbe7cbb3ee45e</sys_ui_section>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:16:09</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
@@ -149,10 +177,10 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>PA-zsdamar</sys_created_by>
             <sys_created_on>2017-09-25 18:06:34</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_id>2b16dfe36f918780d1acbe7cbb3ee45e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>2</sys_mod_count>
             <sys_name>x_puse_apprentice_timesheet</sys_name>
             <sys_overrides/>
             <sys_package display_value="Apprentice Timesheet" source="x_puse_apprentice">d1e4fe966f5d0380d1acbe7cbb3ee469</sys_package>
@@ -161,7 +189,7 @@
             <sys_scope display_value="Apprentice Timesheet">d1e4fe966f5d0380d1acbe7cbb3ee469</sys_scope>
             <sys_update_name>sys_ui_section_2b16dfe36f918780d1acbe7cbb3ee45e</sys_update_name>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 18:06:34</sys_updated_on>
+            <sys_updated_on>2017-09-25 19:16:09</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

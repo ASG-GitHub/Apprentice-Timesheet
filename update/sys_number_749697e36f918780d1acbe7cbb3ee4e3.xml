@@ -8,7 +8,7 @@
         <sys_class_name>sys_number</sys_class_name>
         <sys_created_by>PA-zsdamar</sys_created_by>
         <sys_created_on>2017-09-25 18:08:34</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>749697e36f918780d1acbe7cbb3ee4e3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>APP</sys_name>
