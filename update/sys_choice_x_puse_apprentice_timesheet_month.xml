@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="month" table="x_puse_apprentice_timesheet" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>January</label>
+            <language>en</language>
+            <name>x_puse_apprentice_timesheet</name>
+            <sequence>1</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 18:11:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>772713a76f918780d1acbe7cbb3ee422</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 18:11:46</sys_updated_on>
+            <value>01</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>February</label>
+            <language>en</language>
+            <name>x_puse_apprentice_timesheet</name>
+            <sequence>2</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 18:11:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6c5713a76f918780d1acbe7cbb3ee4fc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 18:11:56</sys_updated_on>
+            <value>02</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>March</label>
+            <language>en</language>
+            <name>x_puse_apprentice_timesheet</name>
+            <sequence>3</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 18:12:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>435713a76f918780d1acbe7cbb3ee4a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 18:12:06</sys_updated_on>
+            <value>03</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>April</label>
+            <language>en</language>
+            <name>x_puse_apprentice_timesheet</name>
+            <sequence>4</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 18:12:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>996717a76f918780d1acbe7cbb3ee4dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 18:12:21</sys_updated_on>
+            <value>04</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>May</label>
+            <language>en</language>
+            <name>x_puse_apprentice_timesheet</name>
+            <sequence>5</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 18:12:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6777d7a76f918780d1acbe7cbb3ee473</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 18:12:40</sys_updated_on>
+            <value>05</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>June</label>
+            <language>en</language>
+            <name>x_puse_apprentice_timesheet</name>
+            <sequence>6</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 18:12:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>ad871ba76f918780d1acbe7cbb3ee459</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 18:12:50</sys_updated_on>
+            <value>06</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>July</label>
+            <language>en</language>
+            <name>x_puse_apprentice_timesheet</name>
+            <sequence>7</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 18:13:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>88979f676f918780d1acbe7cbb3ee49d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 18:13:02</sys_updated_on>
+            <value>07</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>August</label>
+            <language>en</language>
+            <name>x_puse_apprentice_timesheet</name>
+            <sequence>8</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 18:13:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b297d7a76f918780d1acbe7cbb3ee404</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 18:13:11</sys_updated_on>
+            <value>08</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>September</label>
+            <language>en</language>
+            <name>x_puse_apprentice_timesheet</name>
+            <sequence>9</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 18:13:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>16a757a76f918780d1acbe7cbb3ee4a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 18:13:25</sys_updated_on>
+            <value>09</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>October</label>
+            <language>en</language>
+            <name>x_puse_apprentice_timesheet</name>
+            <sequence>10</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 18:13:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>74b757a76f918780d1acbe7cbb3ee490</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 18:13:37</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>November</label>
+            <language>en</language>
+            <name>x_puse_apprentice_timesheet</name>
+            <sequence>11</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 18:13:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>abb75fa76f918780d1acbe7cbb3ee454</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 18:13:46</sys_updated_on>
+            <value>11</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>month</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>December</label>
+            <language>en</language>
+            <name>x_puse_apprentice_timesheet</name>
+            <sequence>12</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 18:13:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>61c79fa76f918780d1acbe7cbb3ee451</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 18:13:53</sys_updated_on>
+            <value>12</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>month</element>
+            <name>x_puse_apprentice_timesheet</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 18:11:46</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>3b4713a76f918780d1acbe7cbb3ee477</sys_id>
+            <sys_mod_count>12</sys_mod_count>
+            <sys_name>month</sys_name>
+            <sys_package display_value="Apprentice Timesheet" source="x_puse_apprentice">d1e4fe966f5d0380d1acbe7cbb3ee469</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Apprentice Timesheet">d1e4fe966f5d0380d1acbe7cbb3ee469</sys_scope>
+            <sys_update_name>sys_choice_x_puse_apprentice_timesheet_month</sys_update_name>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 18:13:53</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>
