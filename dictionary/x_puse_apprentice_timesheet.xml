@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Timesheet" max_length="40" name="x_puse_apprentice_timesheet" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Craft" max_length="40" name="craft" type="string">
+            <choice/>
+        </element>
+        <element label="Location" max_length="32" name="location" reference="cmn_location" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Month" max_length="40" name="month" type="string">
+            <choice/>
+        </element>
+        <element label="Name" max_length="32" name="name" reference="sys_user" type="reference"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element choice="1" label="State" max_length="40" name="state" type="choice">
+            <choice/>
+        </element>
+        <element label="Supervisor" max_length="32" name="supervisor" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Title" max_length="40" name="title" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Total Hours" max_length="40" name="total_hours" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Year" max_length="40" name="year" type="string"/>
+        <index name="index">
+            <element name="name"/>
+        </index>
+        <index name="index2">
+            <element name="location"/>
+        </index>
+        <index name="index3">
+            <element name="supervisor"/>
+        </index>
+    </element>
+</database>
