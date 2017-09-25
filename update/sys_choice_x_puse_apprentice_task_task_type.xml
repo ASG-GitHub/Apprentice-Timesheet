@@ -2,6 +2,24 @@
 <record_update>
     <sys_choice action="INSERT_OR_UPDATE" field="task_type" table="x_puse_apprentice_task" version="3">
         <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Wireman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AT - Testing</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:53:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>38aeefef6f158780d1acbe7cbb3ee493</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:53:59</sys_updated_on>
+            <value>AT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>CT</dependent_value>
             <element>task_type</element>
             <hint/>
@@ -18,6 +36,60 @@
             <sys_updated_by>PA-zsdamar</sys_updated_by>
             <sys_updated_on>2017-09-25 19:30:51</sys_updated_on>
             <value>OPS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Meterman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>TCR – test, Calibrate, Repair</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>1</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:48:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>995defaf6f158780d1acbe7cbb3ee470</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:48:31</sys_updated_on>
+            <value>TCR</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Wireman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>BM - Inspection</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:54:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>86be2f236f558780d1acbe7cbb3ee4c4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:54:16</sys_updated_on>
+            <value>BM</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Meterman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CI – Construction Installation</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>2</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:49:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>8b7d2b6f6f158780d1acbe7cbb3ee4a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:49:07</sys_updated_on>
+            <value>CI</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>CT</dependent_value>
@@ -56,6 +128,78 @@
             <value>C&amp;S</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Wireman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CC - Construction</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>3</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:54:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>6ace27236f558780d1acbe7cbb3ee478</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:54:35</sys_updated_on>
+            <value>CC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Meterman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ML – Large Power Metering/Lab Equip</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>3</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:49:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d1ad27ef6f158780d1acbe7cbb3ee40d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:49:35</sys_updated_on>
+            <value>ML</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Wireman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DW – Wiring Practices</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>4</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:54:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>d8ee27636f558780d1acbe7cbb3ee4c3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:54:58</sys_updated_on>
+            <value>DW</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Meterman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FI – Meter/Field Investigations</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>4</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:50:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>49fd6baf6f158780d1acbe7cbb3ee4e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:50:59</sys_updated_on>
+            <value>FI</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>CT</dependent_value>
             <element>task_type</element>
             <hint/>
@@ -92,6 +236,42 @@
             <value>ELE</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Wireman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ES - Switching</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>5</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:55:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>25fe27636f558780d1acbe7cbb3ee4c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:55:19</sys_updated_on>
+            <value>ES</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Meterman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PL – Programming/Load Study</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>5</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:51:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>060e6b6f6f158780d1acbe7cbb3ee43f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:51:20</sys_updated_on>
+            <value>PL</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>CT</dependent_value>
             <element>task_type</element>
             <hint/>
@@ -108,6 +288,60 @@
             <sys_updated_by>PA-zsdamar</sys_updated_by>
             <sys_updated_on>2017-09-25 19:32:17</sys_updated_on>
             <value>EQU</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Wireman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>FT - Training</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>6</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:55:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>1d1f27636f558780d1acbe7cbb3ee4ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:55:57</sys_updated_on>
+            <value>FT</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Meterman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MS – Meter School</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>6</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:51:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>bb1e6bef6f158780d1acbe7cbb3ee4cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:51:43</sys_updated_on>
+            <value>MS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Wireman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>GC - Climbing</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>7</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:56:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>332f6b636f558780d1acbe7cbb3ee478</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:56:23</sys_updated_on>
+            <value>GC</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>CT</dependent_value>
@@ -128,6 +362,24 @@
             <value>ICE</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Meterman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NEC – NEC Classes &amp; Seminars</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>7</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:52:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>b93eafef6f158780d1acbe7cbb3ee48c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:52:12</sys_updated_on>
+            <value>NEC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value>CT</dependent_value>
             <element>task_type</element>
             <hint/>
@@ -145,6 +397,60 @@
             <sys_updated_on>2017-09-25 19:32:59</sys_updated_on>
             <value>CT</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Wireman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MISC – Miscellaneous</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>8</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:56:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>7a4fef636f558780d1acbe7cbb3ee4d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:56:45</sys_updated_on>
+            <value>MISC</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Meterman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>POS – Power Quality School</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>8</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:52:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>055eabef6f158780d1acbe7cbb3ee434</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:52:33</sys_updated_on>
+            <value>POS</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>Meterman</dependent_value>
+            <element>task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>MISC – Safety meetings etc</label>
+            <language>en</language>
+            <name>x_puse_apprentice_task</name>
+            <sequence>9</sequence>
+            <sys_created_by>PA-zsdamar</sys_created_by>
+            <sys_created_on>2017-09-25 19:53:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_id>217eabef6f158780d1acbe7cbb3ee437</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>PA-zsdamar</sys_updated_by>
+            <sys_updated_on>2017-09-25 19:53:07</sys_updated_on>
+            <value>MISC</value>
+        </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>task_type</element>
             <name>x_puse_apprentice_task</name>
@@ -153,7 +459,7 @@
             <sys_created_on>2017-09-25 19:30:08</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_id>ff39232b6f158780d1acbe7cbb3ee422</sys_id>
-            <sys_mod_count>10</sys_mod_count>
+            <sys_mod_count>27</sys_mod_count>
             <sys_name>task_type</sys_name>
             <sys_package display_value="Apprentice Timesheet" source="x_puse_apprentice">d1e4fe966f5d0380d1acbe7cbb3ee469</sys_package>
             <sys_policy/>
@@ -161,7 +467,7 @@
             <sys_scope display_value="Apprentice Timesheet">d1e4fe966f5d0380d1acbe7cbb3ee469</sys_scope>
             <sys_update_name>sys_choice_x_puse_apprentice_task_task_type</sys_update_name>
             <sys_updated_by>PA-zsdamar</sys_updated_by>
-            <sys_updated_on>2017-09-25 19:32:59</sys_updated_on>
+            <sys_updated_on>2017-09-25 19:56:45</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

@@ -6,14 +6,31 @@
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element choice="1" label="Task Type" max_length="40" name="task_type" type="choice">
             <choice>
+                <element dependent_value="Wireman" label="AT - Testing" sequence="1" value="AT"/>
                 <element dependent_value="CT" label="OPS – Operations" sequence="1" value="OPS"/>
+                <element dependent_value="Meterman" label="TCR – test, Calibrate, Repair" sequence="1" value="TCR"/>
+                <element dependent_value="Wireman" label="BM - Inspection" sequence="2" value="BM"/>
+                <element dependent_value="Meterman" label="CI – Construction Installation" sequence="2" value="CI"/>
                 <element dependent_value="CT" label="SAF – Saftey" sequence="2" value="SAF"/>
                 <element dependent_value="CT" label="C&amp;S – Compliance &amp; Standards" sequence="3" value="C&amp;S"/>
+                <element dependent_value="Wireman" label="CC - Construction" sequence="3" value="CC"/>
+                <element dependent_value="Meterman" label="ML – Large Power Metering/Lab Equip" sequence="3" value="ML"/>
+                <element dependent_value="Wireman" label="DW – Wiring Practices" sequence="4" value="DW"/>
+                <element dependent_value="Meterman" label="FI – Meter/Field Investigations" sequence="4" value="FI"/>
                 <element dependent_value="CT" label="MEC – Mechanical" sequence="4" value="MEC"/>
                 <element dependent_value="CT" label="ELE – Electrical" sequence="5" value="ELE"/>
+                <element dependent_value="Wireman" label="ES - Switching" sequence="5" value="ES"/>
+                <element dependent_value="Meterman" label="PL – Programming/Load Study" sequence="5" value="PL"/>
                 <element dependent_value="CT" label="EQU – Equipment operations" sequence="6" value="EQU"/>
+                <element dependent_value="Wireman" label="FT - Training" sequence="6" value="FT"/>
+                <element dependent_value="Meterman" label="MS – Meter School" sequence="6" value="MS"/>
+                <element dependent_value="Wireman" label="GC - Climbing" sequence="7" value="GC"/>
                 <element dependent_value="CT" label="ICE – Internal Combustion engines" sequence="7" value="ICE"/>
+                <element dependent_value="Meterman" label="NEC – NEC Classes &amp; Seminars" sequence="7" value="NEC"/>
                 <element dependent_value="CT" label="CT – Combustion Turbnines" sequence="8" value="CT"/>
+                <element dependent_value="Wireman" label="MISC – Miscellaneous" sequence="8" value="MISC"/>
+                <element dependent_value="Meterman" label="POS – Power Quality School" sequence="8" value="POS"/>
+                <element dependent_value="Meterman" label="MISC – Safety meetings etc" sequence="9" value="MISC"/>
             </choice>
         </element>
         <element label="Timesheet" max_length="32" name="timesheet" reference="x_puse_apprentice_timesheet" type="reference"/>
