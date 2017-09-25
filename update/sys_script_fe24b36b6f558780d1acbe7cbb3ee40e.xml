@@ -29,23 +29,23 @@
         <rest_variables/>
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
-	var recSysChoice = new GlideRecord('sys_choice');
+	var ch = new GlideRecord('sys_choice');
 	
-	recSysChoice.addQuery('name', 'x_puse_apprentice_timesheet');
-	recSysChoice.addQuery('dependent_value', current.craft);
-	recSysChoice.addQuery('element', "task_type");
-	recSysChoice.addQuery('inactive', false);
-	recSysChoice.query();
-
-	while (recSysChoice.next()) {
-		var recordTask = new GlideRecord('x_puse_apprentice_task');
-		recordTask.initialize();
-		recordTask.timesheet = current.sys_id;
-		recordTask.task_type = recSysChoice.label;
-		recordTask.hours = 0;
-		recordTask.insert();
+	ch.addQuery('name', 'x_puse_apprentice_task');
+	ch.addQuery('dependent_value', current.craft);
+	ch.addQuery('element', "task_type");
+	ch.addQuery('inactive', false);
+	ch.query();
+	
+	while (ch.next()) {
+		var Task = new GlideRecord('x_puse_apprentice_task');
+		Task.initialize();
+		Task.timesheet = current.sys_id;
+		Task.task_type = ch.label;
+		Task.hours = 0;
+		Task.insert();
 	}
-
+	
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>PA-zsdamar</sys_created_by>
@@ -53,7 +53,7 @@
         <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_id>fe24b36b6f558780d1acbe7cbb3ee40e</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>PSE - set craft based tasks</sys_name>
         <sys_overrides/>
         <sys_package display_value="Apprentice Timesheet" source="x_puse_apprentice">d1e4fe966f5d0380d1acbe7cbb3ee469</sys_package>
@@ -62,7 +62,7 @@
         <sys_scope display_value="Apprentice Timesheet">d1e4fe966f5d0380d1acbe7cbb3ee469</sys_scope>
         <sys_update_name>sys_script_fe24b36b6f558780d1acbe7cbb3ee40e</sys_update_name>
         <sys_updated_by>PA-zsdamar</sys_updated_by>
-        <sys_updated_on>2017-09-25 20:27:48</sys_updated_on>
+        <sys_updated_on>2017-09-25 20:42:06</sys_updated_on>
         <template/>
         <when>after</when>
     </sys_script>
